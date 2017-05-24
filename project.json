@@ -1,0 +1,8 @@
+{
+  "name": "slack-reminder",
+  "description": "schedulable reminder on slack",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::017826181293:role/slack-reminder_lambda_function",
+  "environment": {}
+}
